@@ -1,0 +1,74 @@
+.furtherInfo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    h3 {
+        padding-bottom: 1rem;
+    };
+    max-width: 1000px;
+}
+
+.liveButton {
+    background-color: var(--secondary-color);
+    padding: 0.7rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    color: #fff;
+
+
+}
+
+.liveButton p {
+    justify-content: center;
+}
+
+
+.iframe-wrapper{
+    position: relative;
+    padding-top:56.25%;
+    width: 100%;
+}
+.iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.iframe-container {
+    width: 100%;
+    max-width: 700px;
+}
+
+
+.gitlink {
+    display: flex;
+    column-gap: 10px;
+    color: black;
+
+}
+
+.project-title {
+    font-size: x-large;
+}
+
+.gitIcon {
+    margin-left: 0.5rem;
+}
+
+.title-close {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    column-gap: 1rem;
+    margin-bottom: 1rem;
+}
