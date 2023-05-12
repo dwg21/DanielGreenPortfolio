@@ -104,7 +104,7 @@ const FurtherInfo = ({project, setProject}) => {
             <br />
         
 
-            <p>Video Walkthrough</p>
+             {data[project - 1 ]['video'] &&<p className='underlineTitle'>Video Walkthrough</p>}
             <br />
             <div className='iframe-container'>
                 {data[project - 1 ]['video'] && 

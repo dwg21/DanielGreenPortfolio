@@ -14,13 +14,13 @@ import emaestro from '../../assets/Logo2.png'
 
 const works = [  
   {title: 'VINSWAP', description: 'Full Stack Used Clothes Marketplace', imgUrl: vinswap, projectLink: 'https://fairfunders.netlify.app', codeLink: 'https://github.com/dwg21/farifunders', tags: ['Star Projects'], index: 1},
-  {title: 'Español Maestro', description: 'Front End Language Project', imgUrl: emaestro, projectLink: 'https://espanolmaestroserver.onrender.com/', codeLink: 'https://github.com/dwg21/EspanolMaestro', tags: ['Star Projects' ], index: 2},
-  {title: 'Fair Funders', description: 'Web 3 Crowd Funding Project', imgUrl: images.fairfunderLogo, projectLink: 'https://fairfunders.netlify.app', codeLink: 'https://github.com/dwg21/farifunders', tags: [''], index: 3},
+  {title: 'Español Maestro', description: 'Language Learning Project', imgUrl: emaestro, projectLink: 'https://espanolmaestroserver.onrender.com/', codeLink: 'https://github.com/dwg21/EspanolMaestro', tags: ['Star Projects' ], index: 2},
+  {title: 'Fair Funders', description: 'Web 3 Crowd Funding Project', imgUrl: images.fairfunderLogo, projectLink: 'https://fairfunders.netlify.app', codeLink: 'https://github.com/dwg21/farifunders', tags: ['React'], index: 3},
 
 ]
 
 export const Work = () => {
-  const [ActiveFilter, setActiveFilter] = useState('Star Projects')
+  const [ActiveFilter, setActiveFilter] = useState('All')
   const [AnimateCard, setAnimateCard] = useState({ y:0, opacity: 1})
   const [FilterWork, setFilterWork] = useState(works);
   const [project, setProject] = useState(null);
@@ -61,6 +61,10 @@ export const Work = () => {
 
         ))}
       </div>
+
+      <p>Click on the projects to see more details !</p>
+
+      
 
       <motion.div
       animate= {AnimateCard}
