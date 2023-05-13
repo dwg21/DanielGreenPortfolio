@@ -10,7 +10,9 @@ const data = [
     {'title': 'Vinswap',
 
     'introduction': `Vinswap is a fullstack used clothes market place with a twist, instead of paying for clothes
-    , you bid with your own items to suggest swaps.`,
+    , you bid with your own items to suggest swaps. 
+    Guest Login Details: email- Daniel@gmail.com / password- secret`
+    ,
 
     'description' : `I am interested in the application of software development to solve real-world issues and was inspired to create a solution addressing the probems of sustainability within the fashion industry. `,
 
@@ -34,7 +36,8 @@ const data = [
 
     {'title': 'ESPAÑOL MAESTRO',
 
-    'introduction': `Español Maestro is a concept project for a language web app that helps you learn Spanish through the use of several intelligent exercises.`,
+    'introduction': `Español Maestro is a concept project for a language web app that helps you learn Spanish through the use of several intelligent exercises.
+                `,
 
     'description' : `I like to build projects that feel relevant to my life and always have the potential to be developed into 
     a long term personal project for me. As such, i am currently learning Spanish and was inspired by the multitud of online learning 
