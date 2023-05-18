@@ -47,7 +47,7 @@ const data = [
     'video': "https://www.youtube.com/embed/QbH5pMR8_kg",
 
 
-    'linkDeployment' : 'https://espanolmaestro.netlify.app/',
+    'linkDeployment' : 'https://espanolmaestroserver.onrender.com/',
 
     'linkGit' : 'https://github.com/dwg21/EspanolMaestro',
 
