@@ -22,8 +22,8 @@ const data = [
 
     'linkGit' : 'https://github.com/dwg21/Vinpop',
 
-    'ul1': `Register and Login JWT tokin Cookie System`,
-    'ul2': `Upload, edit and delete lisitngs - including photo upload`,
+    'ul1': `Register and Login JWT token Cookie System`,
+    'ul2': `Upload, edit and delete listings - including photo upload`,
     'ul2': `Advanced Search and Cookie Capability`,
     'ul3': `Favorite Section - Store your favorite listings in your account`,
     'ul4': `Message system -message other sellers for enquires/questions`,
@@ -40,8 +40,8 @@ const data = [
                 `,
 
     'description' : `I like to build projects that feel relevant to my life and always have the potential to be developed into 
-    a long term personal project for me. As such, i am currently learning Spanish and was inspired by the multitud of online learning 
-    resources to build a simialr tool myself from the perpective of a learner.`,
+    a long term personal project for me. As such, i am currently learning Spanish and was inspired by the multitude of online learning 
+    resources to build a similar tool myself from the perspective of a learner.`,
 
 
     'video': "https://www.youtube.com/embed/QbH5pMR8_kg",
@@ -52,9 +52,9 @@ const data = [
     'linkGit' : 'https://github.com/dwg21/EspanolMaestro',
 
     'ul1': `Translation between English and Spanish.`,
-    'ul2': `Vocabulary excercise, a flashcard game to reinforce the memory of new vocabulary.`,
-    'ul3': `Conjugation excercise, a flashcard game to reinforce, practice, and teach the Conjugation of verbs.`,
-    'ul4': `Story excercise, a reading excercise to reinforce reading skills and learn new vocabulary.`
+    'ul2': `Vocabulary exercise, a flashcard game to reinforce the memory of new vocabulary.`,
+    'ul3': `Conjugation exercise, a flashcard game to reinforce, practice, and teach the Conjugation of verbs.`,
+    'ul4': `Story exercise, a reading exercise to reinforce reading skills and learn new vocabulary.`
 
     },
 
@@ -63,17 +63,17 @@ const data = [
     'introduction': `Fair Funders is a WEB3  crowdfunding app connected to the blockchain to allow people to send donations though blockchain. `,
 
     'description' : `I am very interested in web3 and cryptocurrencies and the potential of these technologies to change our life. One potential use of web3 is 
-    to revolutionise how we interact with charitys and donations. FairFunders is an app to demonstate exactly this, it allows it's users to send donations 
-    though the blockchain directly to the people or campiagns that need it most.  `,
+    to revolutionize how we interact with charities and donations. FairFunders is an app to demonstrate exactly this, it allows it's users to send donations 
+    though the blockchain directly to the people or campaigns that need it most.  `,
 
     'linkDeployment' : 'https://fairfunders.netlify.app',
 
     'linkGit' : 'https://github.com/dwg21/farifunders',
 
     'ul1': `Change between Dark and light mode.`,
-    'ul2': `Create and View and donate to custom fundrasing opportunities. `,
+    'ul2': `Create and View and donate to custom fundraising opportunities. `,
     'ul3': `Connect your metamask wallet `,
-    'ul4': `Search and filter through differnet campiagns`
+    'ul4': `Search and filter through different campaigns`
 
     },
 
